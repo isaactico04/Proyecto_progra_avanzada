@@ -28,7 +28,8 @@
 
 
 \#verificar con: 
-sudo iptables -L -v -n
+```bash
+  sudo iptables -L -v -n
 
 
 
