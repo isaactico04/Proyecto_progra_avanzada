@@ -21,13 +21,13 @@
    ```bash
    chmod +x firewall_basic.sh
 
-4. Ejecutar el script:
-   ```bash
+## Ejecutar el script:
+  ```bash
    sudo bash firewall_basic.sh
 
 
 
-\#verificar con: 
+## verificar con: 
 ```bash
   sudo iptables -L -v -n
 
